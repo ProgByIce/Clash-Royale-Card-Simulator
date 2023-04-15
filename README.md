@@ -1,5 +1,6 @@
 # Clash-Royale-Card-Simulator
-Java program emulating the card hierarchy and battle system of the mobile game, Clash Royale.
+Task:
+Create a Java program that simulates the card hierarchy and battle system of the mobile game, Clash Royale.
 
 Solution Description: 
 
